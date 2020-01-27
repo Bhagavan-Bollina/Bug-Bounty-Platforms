@@ -1,2 +1,2 @@
 # Bug-Bounty-Platforms
-Sites which you permission to check their security
+Sites which you have permission to check their security
